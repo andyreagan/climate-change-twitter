@@ -1,0 +1,6 @@
+paper
+data
+*.zip
+*.mat
+.DS_Store
+TIFF
